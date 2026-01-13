@@ -10,7 +10,7 @@ I love learning modern technologies and improving my developer skills step by st
 - 🌱 Constantly improving in backend development and async Python  
 - 🚀 Interested in working with scalable systems and modern tools  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseikogan&layout=compact&hide=shell&theme=dark)
+Top Langs:
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
