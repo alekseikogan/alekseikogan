@@ -5,7 +5,8 @@
 🌐 My personal site: https://www.alekseikogan.com/
 
 I enjoy creating web applications with Django, designing clean APIs, and working with databases.
-I also have a solid foundation in JavaScript and basic experience with React, which helps me better understand frontend needs and build smoother full-stack solutions.
+Over the past year, I’ve been actively working with JavaScript and started my path toward becoming a full-stack developer, using React on the frontend.
+This allows me to better understand the full development cycle and build more efficient, well-integrated web applications.
 
 I love learning modern technologies and improving my developer skills step by step.
 
