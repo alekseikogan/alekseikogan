@@ -19,8 +19,10 @@ Top Langs:
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="DRF" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/djangorest/djangorest-original.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
