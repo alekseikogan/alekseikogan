@@ -1,9 +1,13 @@
-# O, hello there, I'm Alexey 👋 
+# O, hello there, I'm Alexey 👋
 
-## 🐍 I'm a Python Developer  
+## 🐍 I'm a Python Developer
 
-I enjoy creating web applications with **Django**, designing clean APIs, and working with databases.  
-I love learning modern technologies and improving my developer skills step by step.  
+🌐 My personal site: https://www.alekseikogan.com/
+
+I enjoy creating web applications with Django, designing clean APIs, and working with databases.
+I also have a solid foundation in JavaScript and basic experience with React, which helps me better understand frontend needs and build smoother full-stack solutions.
+
+I love learning modern technologies and improving my developer skills step by step.
 
 - 💻 Building reliable web services and integrations  
 - ⚙️ Experience with Docker, REST APIs, MySQL, and PostgreSQL  
