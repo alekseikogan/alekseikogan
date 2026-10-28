@@ -1,46 +1,108 @@
-# O, hello there, I'm Alexey 👋
 
-## 🐍 I'm a Python Developer
+# Hey there, I'm Alexey! 👋
 
-🌐 My personal site: https://www.alekseikogan.com/
+### 🐍 Python Backend Developer | Django · FastAPI · AI/LLM
 
-I enjoy creating web applications with Django, designing clean APIs, and working with databases.
-Over the past year, I’ve been actively working with JavaScript and started my path toward becoming a full-stack developer, using React on the frontend.
-This allows me to better understand the full development cycle and build more efficient, well-integrated web applications.
+🌐 **Portfolio:** [alekseikogan.com](https://www.alekseikogan.com/)
 
-I love learning modern technologies and improving my developer skills step by step.
+I'm a Python Backend Developer with 7+ years of experience building web applications, APIs, and backend services.
 
-- 💻 Building reliable web services and integrations  
-- ⚙️ Experience with Docker, REST APIs, MySQL, and PostgreSQL  
-- 🌱 Constantly improving in backend development and async Python  
-- 🚀 Interested in working with scalable systems and modern tools  
+My main focus is **Python, Django, FastAPI, databases, and distributed systems**. I enjoy designing scalable architectures, optimizing performance, and turning complex business requirements into reliable solutions.
 
-Top Langs:
+Currently exploring **AI/LLM engineering**, building agents with LangChain and LangGraph, and integrating language models with external tools and APIs.
 
-### 🧰 Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="DRF" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/djangorest/djangorest-original.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
-<img align="left" alt="Nginx" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nginx/nginx-original.svg" />
-<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
-<img align="left" alt="Postman" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
-<br />
-<br />
+I also develop personal projects, including web platforms and iOS applications.
 
-### 🧩 About me:
-- I like exploring **system design** and learning how things work under the hood  
-- Have experience writing APIs with **FastAPI**  
-- Actively learning **AWS**, **Kafka**, and **Kubernetes (k8s)**  
-- Interested in **asynchronous programming** and **multithreading** in Python  
-- Believe that clean code and consistency are the best tools for teamwork  
-- Open to new challenges and always ready to learn something new  
+### 🚀 What I Do
 
-## ✉︎ Contact:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseikogan2013@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alekseikogan)
+- ⚙️ **Backend Development** — Django, DRF, FastAPI, REST APIs
+- 🗄️ **Databases** — PostgreSQL, MySQL, Redis, ClickHouse
+- 🔄 **Async & Background Processing** — asyncio, Celery, RabbitMQ
+- ☁️ **DevOps & Cloud** — Docker, AWS (EC2, S3, RDS, Lambda), CI/CD, Nginx
+- 🤖 **AI & LLM** — LangChain, LangGraph, OpenAI API, AI Agents, Tool Calling, RAG
+- 📊 **Monitoring & Analytics** — Grafana, Prometheus, SQL optimization
+- 🌐 **Frontend** — JavaScript, React, HTML/CSS
+
+### 🧰 Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Databases & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**AI & LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0F766E?style=flat-square)
+
+### 🤖 AI & LLM Engineering
+
+Currently gaining hands-on experience with LLM-powered applications:
+
+- Building AI agents using **LangChain and LangGraph**
+- Integrating LLMs with external APIs through **Tool Calling**
+- Implementing **structured outputs with Pydantic**
+- Exploring **RAG pipelines** and semantic search
+- Managing conversational state with **LangGraph checkpoints**
+
+### 💡 Selected Projects
+
+**📱 Loopy — iOS Recurring Task Manager**
+
+An iOS application for managing recurring tasks and personal routines.
+
+- Built using SwiftUI and Python backend technologies
+- Designed backend APIs and database architecture
+- Worked with AWS infrastructure and deployment
+- Developed and released the application independently
+
+**🚗 AI-Powered Car Valuation**
+
+A backend project focused on vehicle data processing and AI-assisted price estimation.
+
+- Python-based backend services and APIs
+- Integration with AI models and external data sources
+- Data processing and valuation workflows
+
+**🌐 Web Applications & Backend Services**
+
+- Developed CRM and business automation systems
+- Integrated external services, payment systems, and APIs
+- Optimized database queries and background processing
+- Worked with legacy codebases and production infrastructure
+
+### 📚 Currently Exploring
+
+- LLM Agents and AI-powered backend systems
+- LangChain, LangGraph, RAG architectures
+- Kubernetes and cloud-native applications
+- Distributed systems and system design
+- Advanced asynchronous Python
+
+### 📬 Get in Touch
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseikogan2013@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alekseikogan)
+[![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alekseikogan.com/)
